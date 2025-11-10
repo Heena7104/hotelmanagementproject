@@ -1,16 +1,4 @@
 Check In Details
-Naruto Uzumaki
-113
-Male
-08024681357
-Japanese
-naruto@konohavillage.com
-Hidden Leaf Village
-2023/05/13
-5000
-Booked
-
-Check In Details
 Goku Son
 114
 Male
@@ -20,18 +8,6 @@ goku@capsulecorp.com
 Mount Paozu
 2023/05/14
 2000
-Booked
-
-Check In Details
-Ichigo Kurosaki
-212
-Male
-08012341234
-Japanese
-ichigo@soulreapers.com
-Karakura Town
-2023/05/15
-3000
 Booked
 
 Check In Details
@@ -59,18 +35,6 @@ Sendai City
 Booked
 
 Check In Details
-Neha sharma
-112
-Female
-01670919087
-Bangladeshi
-neha@gmail.com
-dhaka
-2023/05/15
-2000
-Booked
-
-Check In Details
 Anupum Das
 217
 Male
@@ -80,5 +44,17 @@ das@gmail.com
 Feni
 2023/05/16
 8000
+Booked
+
+Check In Details
+Vinayak
+111
+Male
+09805996807
+india
+kk@gmail.com
+kkk
+2025/11/06
+1000
 Booked
 
