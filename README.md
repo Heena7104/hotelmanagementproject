@@ -2,8 +2,6 @@
 
 A desktop application for managing hotel operations: rooms, check‑in/check‑out, payments, and user accounts.
 
-Author: Vinayak — GitHub: https://github.com/vinayak746
-
 ## Features
 - User authentication (Sign up, Login, Forgot password flow)
 - Dashboard with quick navigation
